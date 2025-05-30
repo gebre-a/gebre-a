@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a passionate engineer with a multidisciplinary backg
 
 
 
-<h1 align="center">Hi 👋, I'm Gebrekidan Alemayehu</h1>
+
 <h3 align="center">A passionate Data Science Reasercher from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
