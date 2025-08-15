@@ -78,8 +78,9 @@ Welcome to my GitHub! I’m a passionate engineer with a multidisciplinary backg
 
 ### 🌍 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gebrekidan-alemayehu/)
+- 🔗
 - 🧠 [GitHub](https://github.com/gebre-a)
+-  LinkedIn: *https://www.linkedin.com/in/gebre12/*
 - 📫 Email: *kidanalemayehu12@gmail.com*
 
 ---
